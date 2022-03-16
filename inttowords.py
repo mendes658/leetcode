@@ -61,6 +61,7 @@ def numberToWords(num: int):
     final = (''.join(final)).strip()
     return final.title()
 
+# https://leetcode.com/problems/integer-to-english-words/
 # Mais de 2 horas aqui, finalmente consegui, meuamigo essa foi pancada, o código está mal organizado e longo, porém...
 # ...cumpre a função e por incrível que pareça está mais rápido que 92% das submissions no leetcode
 # 1 mês e 2 dias estudando programação
